@@ -3,8 +3,7 @@
   "version": "0.1.1",
   "license": "MIT",
   "main": [
-  "./dist/angular-super-gallery.min.js",
-  "./dist/angular-super-gallery-views.js",
+  "./dist/angular-super-gallery.js",
   "./dist/angular-super-gallery.css"
   ],
   "ignore": [],
